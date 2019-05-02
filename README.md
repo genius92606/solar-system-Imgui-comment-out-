@@ -1,4 +1,4 @@
-##solar system
+## solar system
 
 ## Requirement
 1. cmake
