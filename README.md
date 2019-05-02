@@ -31,4 +31,4 @@ cmake --build .
 
 
 ## link
-homework pdf: ![](https://github.com/genius92606/solar-system-Imgui-comment-out-/blob/master/CGHW1.pdf)
+[homework pdf](https://github.com/genius92606/solar-system-Imgui-comment-out-/blob/master/CGHW1.pdf)
